@@ -1,0 +1,20 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png"
+
+################################################# ######################### Informações
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="ATUALIZADO",23/05/24
+https://youtu.be/g7tJtrDiTtM?t=244
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JYMSNSL3/IPTV/main/IPTV/JymsPlay%20TV.png" group-title="JYMSNSL",Por JymsNsl
+https://youtu.be/g7tJtrDiTtM?t=244
+
+################################################# ######################### Canais | ABERTO
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Liberal Belém HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/33737
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Mirante HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/32380
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",TV Mirante HD
+http://15.235.15.230:14499/MANOTV
