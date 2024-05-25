@@ -32,3 +32,45 @@ https://github.com/DLGAMESHEN/dlcinetv/releases/download/DESENHO_ANIMADO/Liga.Da
 #EXTINF:-1 tvg-id="SCOOBY" tvg-name="SCOOBY" tvg-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/IPTV_DLPLAY/LOGO_MENU/DESENHOS/Scooby_Doo_e_Krypto_O_Superc%C3%A3o.png" group-title="FILMES/DESENHOS",SCOOBY DOO E KRYPTO O SUPERCÃO
 https://github.com/DLGAMESHEN/dlcinetv/releases/download/DESENHO_ANIMADO/Scooby_Doo.e_Krypto_O_Supercao_2023_1080p_WEB_DL_DUAL_5.1.mkv
 
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/medium",RTP 2
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC
+http://live.impresa.pt/live/sic/sic540p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",SIC NOTÍCIAS
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP3
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL 
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/medium",RTP AÇORES
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png/medium",RTP ÁFRICA
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+
+EXTM3U
+#PLAYLISTV: pltv-logo="http://i.imgur.com/keUbAmz.jpg" pltv-name="Canais lulu" pltv-description="Canais Variados" pltv-cover="http://i.imgur.com/IH98IrP.png" pltv-author="lulu chicleteiro" pltv-site="facebook.com/lulu.chicleteiro" pltv-email="XXX E-MAIL XXX"
+
+
+################# TV/REALITY #############
+#EXTINF:-1 group-title="TV/REALITY",tvg-logo="http://i.imgur.com/1KIxF9F.png" pltv-subgroup="",
+http://0.0.0.0
+#EXTINF:-1 group-title="TV/REALITY",tvg-logo="http://i.imgur.com/X0MP2HN.jpg" pltv-subgroup="REALITY_ON" ,CAM 1 ALBANIA
+http://158.69.162.115:3000/out/u/211_1.m3u8
+#EXTINF:-1 group-title="TV/REALITY",tvg-logo="http://i.imgur.com/Xv0EgBi.png" pltv-subgroup="REALITY_ON",TVI REALITY
+http://4.31.30.145:9040
+#EXTINF:-1 group-title="TV/REALITY",tvg-logo="https://i.imgur.com/cnF74Z0.png" pltv-subgroup="REALITY_ON",BBB_18 CAM_1
+http://tv.ec.cx:1935/redecanais-bbb18/myStream/chunklist_w1737983232.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDE4IDExOjE0OjI1IFBNJmhhc2hfdmFsdWU9aGxLbHgrNUNkaEttcGNlYW1DRnRCUT09JnZhbGlkbWludXRlcz0yMCZpZD01
