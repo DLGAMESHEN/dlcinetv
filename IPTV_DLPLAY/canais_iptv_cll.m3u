@@ -10,6 +10,8 @@ https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/IPTV_DLPLAY/canais_ip
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/FILMES01/IMG/DLGAMES.png" group-title="DL GAMES",25/05/24
 https://youtu.be/g7tJtrDiTtM?t=244
 ################################################# ######################### DL IPTV
+#VOD: pltv-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/FILMES01/IMG/DLGAMES.png" pltv-name="DL IPTV CANAIS" pltv-description=CANAIS AO VIVO PlaylisTV/IPTV" pltv-cover="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/FILMES01/IMG/DLGAMES.png" pltv-author="dl games" pltv-email="dlgamesps3vip.@gmail.com"
+
 #EXTM3U
 #EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" , FILMES
 http://0.0.0.0
