@@ -62,7 +62,6 @@ http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.sm
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 
 #EXTM3U
-#PLAYLISTV: pltv-logo="http://i.imgur.com/keUbAmz.jpg" pltv-name="Canais lulu" pltv-description="Canais Variados" pltv-cover="http://i.imgur.com/IH98IrP.png" pltv-author="lulu chicleteiro" pltv-site="facebook.com/lulu.chicleteiro" pltv-email="XXX E-MAIL XXX"
 ################# TV/REALITY #############
 #EXTINF:-1 group-title="TV/REALITY",tvg-logo="http://i.imgur.com/1KIxF9F.png" pltv-subgroup="",
 http://0.0.0.0
