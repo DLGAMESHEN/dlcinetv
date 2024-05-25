@@ -33,7 +33,7 @@ https://github.com/DLGAMESHEN/dlcinetv/releases/download/DESENHO_ANIMADO/Liga.Da
 https://github.com/DLGAMESHEN/dlcinetv/releases/download/DESENHO_ANIMADO/Scooby_Doo.e_Krypto_O_Supercao_2023_1080p_WEB_DL_DUAL_5.1.mkv
 
 #EXTM3U
-#VOD: pltv-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/FILMES01/IMG/DLGAMES.png" pltv-name="DL IPTV CANAIS" pltv-description=CANAIS AO VIVO PlaylisTV/IPTV" pltv-cover="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/FILMES01/IMG/DLGAMES.png" pltv-author="dl games" pltv-email="dlgamesps3vip.@gmail.com"
+#PLAYLISTVOD: pltv-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/FILMES01/IMG/DLGAMES.png" pltv-name="DL IPTV CANAIS" pltv-description=CANAIS AO VIVO PlaylisTV/IPTV" pltv-cover="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/FILMES01/IMG/DLGAMES.png" pltv-author="dl games" pltv-email="dlgamesps3vip.@gmail.com"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/FILMES01/IMG/DLGAMES.png"
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/medium",RTP 2
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
