@@ -7,6 +7,40 @@ https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/IPTV_DLPLAY/canais_ip
 https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/IPTV_DLPLAY/canais_iptv_cll.m3u
 ################################################# ######################### Informações
 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/FILMES01/IMG/DLGAMES.png"
+
+################################################# ######################### Informações
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/FILMES01/IMG/DLGAMES.png" group-title="DL GAMES",25/05/24
+https://youtu.be/g7tJtrDiTtM?t=244
+################################################# ######################### FILMES
+
+#EXTINF:-1 tvg-id="Thor" tvg-name="Thor" tvg-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/FILMES01/IMG/Thor_Ragnarok_Thor_.png" group-title="FILMES",THOR RAGNAROK 2018
+https://github.com/DLGAMESHEN/dlcinetv/releases/download/_THOR_RAGNAROK_2018_720P_DUBLADO_/Thor.Ragnarok.2018.720p.dublado.mp4.mkv
+
+#EXTINF:-1 tvg-id="P4" tvg-name="P4" tvg-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/IPTV_DLPLAY/LOGO_MENU/DESENHOS/PICA_PAU_2024.png" group-title="FILMES",PICA-PAU AS FERIAS NO ACAMPAMENTO 2024
+https://github.com/DLGAMESHEN/dlcinetv/releases/download/FILMES/Pica-Pau.As.Ferias.No.Acampamento.2024.1080P.Web-Dl.Dual.5.1.mp4
+
+################################################# ######################### FILMES/DESENHOS
+#EXTINF:-1 tvg-id="PANDA" tvg-name="PANDA" tvg-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/IPTV_DLPLAY/LOGO_MENU/DESENHOS/KUNG_FU_PANDA_4.png" group-title="FILMES/DESENHOS",KUNG FU PANDA 4
+https://github.com/DLGAMESHEN/dlcinetv/releases/download/DESENHO_ANIMADO/Kung_Fu_Panda_4_2024_DUBLADO.mkv
+
+#EXTINF:-1 tvg-id="MEGA" tvg-name="MEGA" tvg-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/IPTV_DLPLAY/LOGO_MENU/DESENHOS/MEGAMENTE.png" group-title="FILMES/DESENHOS",MEGAMENTE VS. O SINDICATO DA PERDIÇÃO
+https://github.com/DLGAMESHEN/dlcinetv/releases/download/DESENHO_ANIMADO/Megamente.Vs.O.Sindicato.Da.Perdicao.2024.mp4
+
+#EXTINF:-1 tvg-id="GARLFIED" tvg-name="GARLFIED" tvg-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/IPTV_DLPLAY/LOGO_MENU/DESENHOS/Garfield_Fora_de_Casa_2024.png" group-title="FILMES/DESENHOS",GARFIELD - FORA DE CASA
+https://github.com/DLGAMESHEN/dlcinetv/releases/download/DESENHO_ANIMADO/The.Garfield.Movie.2024.720p.CAMRip.Dublado.V.2.mkv
+
+#EXTINF:-1 tvg-id="BAT" tvg-name="BAT" tvg-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/IPTV_DLPLAY/LOGO_MENU/DESENHOS/O_Nataldo_Pequeno_Batman.png" group-title="FILMES/DESENHOS",O NATALDO PEQUENO BATMAN
+https://github.com/DLGAMESHEN/dlcinetv/releases/download/DESENHO_ANIMADO/O.Natal.do.Pequeno.Batman.2023.1080p.WEB-DL.DUAL.5.1.mkv
+
+#EXTINF:-1 tvg-id="JUSTICA" tvg-name="JUSTICA" tvg-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/IPTV_DLPLAY/LOGO_MENU/DESENHOS/liga_da_justica_2024.png" group-title="FILMES/DESENHOS",LIGA DA JUSTICA CRISE NAS INFINITAS TERRAS PARTE DOIS 2024
+https://github.com/DLGAMESHEN/dlcinetv/releases/download/DESENHO_ANIMADO/Liga.Da.Justica.Crise.Nas.Infinitas.Terras.Parte.Dois.2024.1080P.Web-Dl.Eac3.Aac.Dual.5.1.mp4
+
+#EXTINF:-1 tvg-id="SCOOBY" tvg-name="SCOOBY" tvg-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/IPTV_DLPLAY/LOGO_MENU/DESENHOS/Scooby_Doo_e_Krypto_O_Superc%C3%A3o.png" group-title="FILMES/DESENHOS",SCOOBY DOO E KRYPTO O SUPERCÃO
+https://github.com/DLGAMESHEN/dlcinetv/releases/download/DESENHO_ANIMADO/Scooby_Doo.e_Krypto_O_Supercao_2023_1080p_WEB_DL_DUAL_5.1.mkv
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/DLGAMESHEN/dlcinetv/main/FILMES01/IMG/DLGAMES.png" group-title="DL GAMES",25/05/24
 https://youtu.be/g7tJtrDiTtM?t=244
 ################################################# ######################### DL IPTV
